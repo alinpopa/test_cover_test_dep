@@ -1,0 +1,1 @@
+-define(test(Fun), {??Fun, fun Fun/0}).
